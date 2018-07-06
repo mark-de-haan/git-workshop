@@ -9,7 +9,7 @@
 - [Resources](#resources)
 
 ## Install on Windows
-1) Download git from [here](https://git-scm.com/downloads)
+1) Download git from [here](https://git-scm.com/downloads){:target="_blank"}
 2) Go through the installer steps. It is recommended to look at every step, but if you do not understand a 100%, the default settings are OK
 
 3) ...
