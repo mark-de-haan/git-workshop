@@ -2,7 +2,7 @@
 - [Install on windows](#install-on-windows)
 - [Creating your first git repository](#creating-your-first-git-repository)
   - [Create a git folder for your repositories](#create-a-git-folder-for-your-repositories)
-  - [Create a local repository]()
+  - [Create a local repository](#create-a-local-repository)
 - [How to get Started with GitHub](#how-to-get-started-with-github)
   - [Create a GitHub account](#create-a-github-acccount)
   - [Generating SSH key](#generating-an-ssh-key)
@@ -15,9 +15,20 @@
 3) ...
 4) Profit! You have installed git
 
+> __NOTE__: The following parts all use the commandline. Windows users are recommended to install a decent terminal. If you do not have one, the Git Bash terminal will work as well 
+
 ## Creating your first git repository
+It is good practice to have your git repositories in one place.
+For the following paragraphs, our git folder will be in `C:\Users\user\Documents\`
 
 ### Create a git folder for your repositories
+Open up the terminal and enter the following commands
+
+```bash
+cd ~\Documents
+mkdir git
+cd git
+```
 
 ### Create a local repository
 
